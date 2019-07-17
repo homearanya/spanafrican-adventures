@@ -13,9 +13,22 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "gatsby": "^2.13.23",
+    "babel-plugin-styled-components": "^1.10.6",
+    "gatsby": "^2.13.25",
+    "gatsby-background-image": "^0.8.0",
+    "gatsby-image": "^2.2.6",
+    "gatsby-plugin-sass": "^2.1.3",
+    "gatsby-plugin-sharp": "^2.2.7",
+    "gatsby-plugin-styled-components": "^3.1.2",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-remark-images": "^3.1.6",
+    "gatsby-source-filesystem": "^2.1.5",
+    "gatsby-transformer-remark": "^2.6.6",
+    "gatsby-transformer-sharp": "^2.2.3",
+    "intersection-observer": "^0.7.0",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.3.2"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
